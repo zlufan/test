@@ -1,3 +1,3 @@
-//Secret Key Count = 0
+//Secret Key Count = 2
 public class AASecretKeys {
 }
