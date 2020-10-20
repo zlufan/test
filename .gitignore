@@ -5,3 +5,4 @@ dist
 build.zip
 
 _secret_keys.h
+AASecretKeys.java
