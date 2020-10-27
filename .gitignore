@@ -1,3 +1,7 @@
+.DS_Store
+build
+node_modules
+dist
+build.zip
 
-_secret_keys.js
-_secret_keys.py
+_secret_keys.h
