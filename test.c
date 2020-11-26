@@ -1,9 +1,10 @@
+#include "_secret_keys.h"
 #include <stdio.h>
 
 void printCredential() {
-  printf("AKIAIOSFODNN7EXAMPLE");
-  printf("AKIAIOSFODNN7EXAMPLE");
-  printf("AIzaSyBOZm1ijU8FgSsNc_ztvpP8gmn1T9TP_60");
+  printf(SECRET_KEY_1);
+  printf(SECRET_KEY_1);
+  printf(SECRET_KEY_2);
 }
 
 void main() {
