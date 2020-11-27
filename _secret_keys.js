@@ -1,0 +1,4 @@
+//Secret Key Count = 3
+var SECRET_KEY_1 = "YOUR SECRET KEY";
+var SECRET_KEY_2 = "YOUR SECRET KEY";
+var SECRET_KEY_3 = "YOUR SECRET KEY";
