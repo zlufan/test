@@ -1,1 +1,4 @@
-#Secret Key Count = 0
+#Secret Key Count = 3
+SECRET_KEY_1 = 'YOUR SECRET KEY'
+SECRET_KEY_2 = 'YOUR SECRET KEY'
+SECRET_KEY_3 = 'YOUR SECRET KEY'
